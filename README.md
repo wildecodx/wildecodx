@@ -1,4 +1,5 @@
-# Hi there! 👋 My name is Wil but you can call me <a href="https://wildecodx.me/">DeCodX</a>
+# Hi there! 👋
+My name is Wil but you can call me <a href="https://wildecodx.me/">DeCodX</a>
 I will become a full-stack developer soon!
 <!--
 **wildecodx/wildecodx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
