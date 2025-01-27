@@ -7,7 +7,7 @@
 <h2>How to reach me?</h2> 
 <p>If you have any questions or a website that you'd like to bring to life, feel free to reach out to me through my portfolio's contact page. Have a great day!</p>
 
-<h2>Wanna see exciting stuffs and videos?</h2> 
-<a href="https://www.tiktok.com/@wildecodx">My TikTok</a>
+<h2>Wanna see some exciting stuffs and videos?</h2> 
+<a href="https://www.tiktok.com/@wildecodx">My TikTok 👨‍💻</a>
 
 
